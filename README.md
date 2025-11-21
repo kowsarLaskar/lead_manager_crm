@@ -98,7 +98,7 @@ Installation
 
 Clone the repository (or extract the zip):
 
-git clone <repository-url>
+git clone <https://github.com/kowsarLaskar/lead_manager_crm.git>
 cd lead_manager_crm
 
 
